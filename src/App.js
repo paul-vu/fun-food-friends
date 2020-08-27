@@ -73,14 +73,14 @@ class App extends Component {
               <input
                 type="text"
                 name="username"
-                placeholder="what is your name?"
+                placeholder="What is your name?"
                 onChange={this.handleChange}
                 value={this.state.username}
               />
               <input
                 type="text"
                 name="currentItem"
-                placeholder="what are you bringing?"
+                placeholder="What are you bringing?"
                 onChange={this.handleChange}
                 value={this.state.currentItem}
               />
