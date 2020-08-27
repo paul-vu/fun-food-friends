@@ -6,7 +6,7 @@ Fun Food Friends with <code>Firebase RTDB</code> is a <code>React</code> web app
 
 ## Tech Stack
 
-- React.js
+- React (class components)
 - Firebase RTDB
 - Custom CSS3 styling
 
